@@ -1,5 +1,3 @@
-# Static-Website-Hosting-on-Amazon-S3
-
 # 🌐 Static Website Hosting on Amazon S3
 
 ![AWS](https://img.shields.io/badge/AWS-S3-orange?logo=amazonaws)
