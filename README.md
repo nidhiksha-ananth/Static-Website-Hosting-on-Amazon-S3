@@ -28,17 +28,17 @@ http://nextwork-website-project-nidhiksha.s3-website.ap-south-2.amazonaws.com
 
 ### Homepage
 
-![Homepage]<img width="1385" height="817" alt="Final website" src="https://github.com/user-attachments/assets/21b3ece2-6c1e-4f6c-a2cf-bbec83901f7d" />
+<img width="1385" height="817" alt="Final website" src="https://github.com/user-attachments/assets/21b3ece2-6c1e-4f6c-a2cf-bbec83901f7d" />
 
 
 ### Amazon S3 Bucket
 
-![S3 Bucket]<img width="1385" height="817" alt="Final website" src="https://github.com/user-attachments/assets/db62cc67-7934-4f34-9309-6d2a5917f7bc" />
+<img width="1033" height="372" alt="S3 buckets" src="https://github.com/user-attachments/assets/0b6e76af-77c6-449c-9c77-dd420036f6f2" />
 
 
 ### Static Website Hosting Configuration
 
-![Static Website Hosting]<img width="1507" height="485" alt="Static website hosting" src="https://github.com/user-attachments/assets/d688ce3c-1cf1-4729-9084-02710d8f85e2" />
+<img width="1507" height="485" alt="Static website hosting" src="https://github.com/user-attachments/assets/d688ce3c-1cf1-4729-9084-02710d8f85e2" />
 
 
 ---
